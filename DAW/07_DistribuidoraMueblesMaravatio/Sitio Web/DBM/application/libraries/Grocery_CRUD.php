@@ -1,42 +1,11 @@
 <?php
 /**
- * PHP grocery CRUD
- *
- * A Codeigniter library that creates a CRUD automatically with just few lines of code.
- *
- * Copyright (C) 2010 - 2014  John Skoumbourdis.
- *
- * LICENSE
- *
- * Grocery CRUD is released with dual licensing, using the GPL v3 (license-gpl3.txt) and the MIT license (license-mit.txt).
- * You don't have to do anything special to choose one license or the other and you don't have to notify anyone which license you are using.
- * Please see the corresponding license file for details of these licenses.
- * You are free to use, modify and distribute this software, but all copyright information must remain.
- *
- * @package    	grocery CRUD
- * @copyright  	Copyright (c) 2010 through 2014, John Skoumbourdis
- * @license    	https://github.com/scoumbourdis/grocery-crud/blob/master/license-grocery-crud.txt
- * @version    	1.6.1
- * @author     	John Skoumbourdis <scoumbourdisj@gmail.com>
- */
-
-// ------------------------------------------------------------------------
-
-/**
- * grocery Field Types
- *
- * The types of the fields and the default reactions
- *
- * @package    	grocery CRUD
- * @author     	John Skoumbourdis <scoumbourdisj@gmail.com>
- * @license     https://github.com/scoumbourdis/grocery-crud/blob/master/license-grocery-crud.txt
- * @link		http://www.grocerycrud.com/documentation
- */
+ * 
+*/
 class grocery_CRUD_Field_Types
 {
 	/**
-	 * Gets the field types of the main table.
-	 * @return array
+	 * 
 	 */
 	public function get_field_types()
 	{
